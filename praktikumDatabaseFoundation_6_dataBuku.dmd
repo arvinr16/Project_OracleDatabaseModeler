@@ -1,6 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="PraktikumDatabaseFoundation-6(DataBuku)" id="AC083650-DDD9-9436-A07B-BFB27F3C5033" version="3.5">
-<createdBy>S6N0C</createdBy>
+<createdBy>arvinr16</createdBy>
 <createdTime>2025-04-25 01:05:59 UTC</createdTime>
 <ownerDesignName>PraktikumDatabaseFoundation-6(DataBuku)</ownerDesignName>
 <capitalNames>false</capitalNames>

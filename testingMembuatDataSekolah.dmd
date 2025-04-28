@@ -1,6 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="testingMembuatDataSekolah" id="7FD414F6-ACE2-F495-5C5E-C39F3FFBE2F2" version="3.5">
-<createdBy>S6N0C</createdBy>
+<createdBy>arvinr16</createdBy>
 <createdTime>2025-04-24 14:41:45 UTC</createdTime>
 <ownerDesignName>testingMembuatDataSekolah</ownerDesignName>
 <capitalNames>false</capitalNames>
